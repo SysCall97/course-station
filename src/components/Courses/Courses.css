@@ -1,9 +1,11 @@
+.container{
+    position: relative;
+    top: 90px;
+}
+
 .card-deck {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-gap: .5rem;
 }
 
-.container{
-    margin-top: 5%;
-}

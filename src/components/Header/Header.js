@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <div style={{position:"absolute", width: "100%"}}>
+        <div>
             <nav className="navbar navbar-dark bg-primary ">
                 <a className="navbar-brand" href="/home">Course Station</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
